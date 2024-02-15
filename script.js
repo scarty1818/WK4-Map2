@@ -56,3 +56,4 @@ require([
   // Add the home button to the top left corner of the view
   view.ui.add(homeBtn, "top-left");
 });
+
